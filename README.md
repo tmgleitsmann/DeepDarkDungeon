@@ -2,6 +2,7 @@
 Cross Platform (best suited for iOS) mobile game where user can select 6 characters to fight 6 monsters. Supports use of consumables, weapons, armor, boots, and rings to modify character attributes.
 *Unplayable, but runable on android and uwp.* *Functionality for Defend currently does not exist*
 
+BEFORE YOU DO ANYTHING TO THE FILE, RESTORE YOUR NUGET PACKAGES. This will restore the proper simulators to the solution so you can build and run. 
 
 THERE ARE BUGS! 
 - Need to have at least 1 character/ monster in the mock/sql database for the game to work without having a collection population error. 
